@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @oseiclement10
 - 👀 I’m interested in web development 
 - 🌱 I’m currently learning server side programming
-- 💞️ I’m looking to collaborate on all projects related to ecommerce
+- 💞️ I’m looking to collaborate on all projects involving javascript....
 - 📫 reach me via @clemzymillz@gmail.com ...
 
 <!---
