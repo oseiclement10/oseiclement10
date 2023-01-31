@@ -1,4 +1,5 @@
 - 👋 Hi, I’m @oseiclement10
+- 🙌 I'm a Bsc. Computer Science graduate.
 - 👀 I’m interested in web development 
 - 🌱 I’m currently learning server side programming
 - 💞️ I’m looking to collaborate on all projects involving javascript....
