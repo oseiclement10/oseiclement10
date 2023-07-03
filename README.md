@@ -1,8 +1,7 @@
 - 👋 Hi, I’m @oseiclement10
 - 🙌 I'm a Bsc. Computer Science graduate.
-- 👀 I’m interested in web development 
-- 🌱 I’m currently learning server side programming
-- 💞️ I’m looking to collaborate on all projects involving javascript....
+- 👀 I’m interested in web development
+- 💞️ I’m looking to collaborate on all projects involving javascript/typescript....
 - 📫 reach me via @clemzymillz@gmail.com ...
 -  proficient in react js and node js
 <!---
